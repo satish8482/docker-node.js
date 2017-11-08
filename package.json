@@ -1,0 +1,12 @@
+{
+  "name": "docker-node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=1337 node ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
